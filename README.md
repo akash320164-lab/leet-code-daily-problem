@@ -16,6 +16,7 @@ for my career
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -29,4 +30,12 @@ for my career
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
