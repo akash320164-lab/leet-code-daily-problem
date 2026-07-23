@@ -64,6 +64,7 @@ for my career
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ for my career
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +103,8 @@ for my career
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
