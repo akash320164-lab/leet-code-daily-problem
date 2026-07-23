@@ -13,6 +13,7 @@ for my career
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ for my career
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
