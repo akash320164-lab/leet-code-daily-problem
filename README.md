@@ -6,10 +6,12 @@ for my career
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Math
 |  |
