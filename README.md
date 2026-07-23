@@ -107,4 +107,8 @@ for my career
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
