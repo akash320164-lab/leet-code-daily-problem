@@ -28,6 +28,7 @@ for my career
 | [0009-palindrome-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ for my career
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@ for my career
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Greedy
 |  |
 | ------- |
