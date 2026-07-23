@@ -11,6 +11,7 @@ for my career
 | [0011-container-with-most-water](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ for my career
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -73,6 +75,7 @@ for my career
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
