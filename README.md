@@ -9,6 +9,7 @@ for my career
 | [0001-two-sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ for my career
 | [0008-string-to-integer-atoi](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +79,8 @@ for my career
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
