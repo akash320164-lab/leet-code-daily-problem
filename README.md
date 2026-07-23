@@ -46,6 +46,7 @@ for my career
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
