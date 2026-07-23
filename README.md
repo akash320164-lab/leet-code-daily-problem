@@ -43,6 +43,7 @@ for my career
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ for my career
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ for my career
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 ## Greedy
 |  |
 | ------- |
