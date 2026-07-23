@@ -13,6 +13,7 @@ for my career
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ for my career
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ for my career
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -45,6 +48,7 @@ for my career
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +89,7 @@ for my career
 | [0011-container-with-most-water](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
