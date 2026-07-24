@@ -16,6 +16,7 @@ for my career
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ for my career
 | [0009-palindrome-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Binary Search
 |  |
