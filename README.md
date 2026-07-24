@@ -12,6 +12,7 @@ for my career
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0414-third-maximum-number) |
@@ -24,6 +25,7 @@ for my career
 | [0001-two-sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
@@ -54,6 +56,7 @@ for my career
 | ------- |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0414-third-maximum-number) |
@@ -90,6 +93,7 @@ for my career
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +136,7 @@ for my career
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
 ## Interactive
 |  |
