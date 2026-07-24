@@ -42,6 +42,7 @@ for my career
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -132,4 +133,8 @@ for my career
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
