@@ -12,6 +12,7 @@ for my career
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
+| [0055-jump-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
@@ -108,11 +109,13 @@ for my career
 | [0005-longest-palindromic-substring](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0055-jump-game) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
