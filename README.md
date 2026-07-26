@@ -22,6 +22,7 @@ for my career
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ for my career
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,4 +174,5 @@ for my career
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
