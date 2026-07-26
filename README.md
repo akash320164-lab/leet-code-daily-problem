@@ -21,6 +21,7 @@ for my career
 | [0704-binary-search](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
+| [2574-left-and-right-sum-differences](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +168,8 @@ for my career
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0174-dungeon-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
