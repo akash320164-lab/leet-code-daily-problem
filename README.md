@@ -142,4 +142,20 @@ for my career
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
