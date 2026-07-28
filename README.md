@@ -14,6 +14,7 @@ for my career
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0174-dungeon-game) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@ for my career
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 ## Sorting
 |  |
