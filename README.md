@@ -13,6 +13,7 @@ for my career
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0174-dungeon-game) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ for my career
 | [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
