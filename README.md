@@ -12,6 +12,7 @@ for my career
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@ for my career
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0349-intersection-of-two-arrays) |
