@@ -73,6 +73,7 @@ for my career
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
@@ -80,6 +81,7 @@ for my career
 | ------- |
 | [0002-add-two-numbers](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
