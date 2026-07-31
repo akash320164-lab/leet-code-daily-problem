@@ -44,6 +44,7 @@ for my career
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0504-base-7) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/1512-number-of-good-pairs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -96,6 +97,7 @@ for my career
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
+| [0504-base-7](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0504-base-7) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Sliding Window
 |  |
