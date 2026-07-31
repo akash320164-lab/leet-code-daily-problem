@@ -43,6 +43,7 @@ for my career
 | [0009-palindrome-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0504-base-7) |
