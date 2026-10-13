@@ -104,6 +104,7 @@ for my career
 | [0010-regular-expression-matching](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0290-word-pattern) |
 | [0504-base-7](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0504-base-7) |
@@ -156,6 +157,7 @@ for my career
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0032-longest-valid-parentheses) |
 ## Database
 |  |
@@ -199,4 +201,8 @@ for my career
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akash320164-lab/leet-code-daily-problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
